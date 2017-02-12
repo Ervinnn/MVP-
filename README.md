@@ -1,4 +1,3 @@
-# MVP-
 
 1.总体分层架构:Model<->Presenter<->View
   架构基本解读：
